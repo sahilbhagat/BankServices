@@ -1,0 +1,19 @@
+Testsuite: BankServices.BillerTests
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 1.443 sec
+------------- Standard Output ---------------
+--Output from testempty--
+--Output from testblank--
+--Output from testinlist--
+--Output from testSomething--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testempty--
+--Output from testblank--
+--Output from testinlist--
+--Output from testSomething--
+------------- ---------------- ---------------
+
+Testcase: testempty took 0.784 sec
+Testcase: testblank took 0.085 sec
+Testcase: testinlist took 0.036 sec
+Testcase: testSomething took 0.272 sec

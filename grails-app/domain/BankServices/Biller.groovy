@@ -4,9 +4,9 @@ class Biller {
     
     String category
     String name
-    String account_ID
+    String accountID
     static constraints={
-        account_ID(unique:true,blank:false)
+        accountID(unique:true,blank:false)
         name(blank:false)
         category(inList:['Telephone','Electricity','Others'],blank:false)
     }

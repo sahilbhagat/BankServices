@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="RamJi-PC" name="BankServices.BillerTests" tests="4" time="1.443" timestamp="2011-11-22T06:28:02">
+  <properties />
+  <testcase classname="BankServices.BillerTests" name="testempty" time="0.784" />
+  <testcase classname="BankServices.BillerTests" name="testblank" time="0.085" />
+  <testcase classname="BankServices.BillerTests" name="testinlist" time="0.036" />
+  <testcase classname="BankServices.BillerTests" name="testSomething" time="0.272" />
+  <system-out><![CDATA[--Output from testempty--
+--Output from testblank--
+--Output from testinlist--
+--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testempty--
+--Output from testblank--
+--Output from testinlist--
+--Output from testSomething--
+]]></system-err>
+</testsuite>
